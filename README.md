@@ -59,7 +59,7 @@ Understanding what data is available will be more helpful while doing analysis. 
 ## Key Takeaways :-
 - Power BI fundamentals like Data Import, Data Modelling, Analysis, and Visualization
 - Preparation of Financial Statements: Profit & Loss Statement (Income Statement), Balance Sheet, Cash Flow Statement, & The Statement of Changes in Equity
-- Calculattion of Ratios & Analyze Financial Data to assess Business Performance in terms of Profitability, Liquidity, Risk Management, & Operational Efficiency
+- Calculation of Ratios & Analyze Financial Data to assess Business Performance in terms of Profitability, Liquidity, Risk Management, & Operational Efficiency
 - Visualization and Cross-Visualize Financial Data with a variety of Power BI Charts and Graphs
 - Preparation of Beautiful & Dynamic Financial Reporting & Analytics Dashboards
 
