@@ -21,12 +21,13 @@
 -	Publishing reports to PowerBi services
 
 ## Business related terms
+
 - Ratios
 - FTP- For the Period
 - TTD- Total Time Period
 -  PCP-previous corresponding period
 
-### Questions to ask before starting with dashboard
+## Questions to ask before starting with dashboard
 
 - What is the objective of building this PowerBi dashboard?
 - In what terms the success of this project will be measured?
@@ -41,7 +42,7 @@
 - is there any inputs from stakeholders in terms of design and views of the dashboard?
 
 
-### Dataset **Understanding**
+## Dataset **Understanding**
 
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
